@@ -32,9 +32,16 @@ It is an interactive chatbot designed for Delicious Den restaurant. It enhances 
 ![Screenshot 2024-07-02 211345](https://github.com/Pratiksha-Barman/COCO-The-Foodie-Bot/assets/96463111/0719b7d8-c561-48f8-8a4e-bda91ef8d093)
 
 
+# Vizualization
+![I want to see the menu](https://github.com/Pratiksha-Barman/COCO-The-Foodie-Bot/assets/96463111/e3aa99a5-2856-436a-8936-aaa1f12f4286)
+
+![Tell me about the restaurant](https://github.com/Pratiksha-Barman/COCO-The-Foodie-Bot/assets/96463111/f561ce22-c032-43d1-9b2e-eacf40d144e9)
+
+
 # Output:
 ![Screenshot 2024-07-02 211532](https://github.com/Pratiksha-Barman/COCO-The-Foodie-Bot/assets/96463111/b3b2bb58-4127-4f18-b582-513713657171)
 
 ![Screenshot 2024-07-02 211000](https://github.com/Pratiksha-Barman/COCO-The-Foodie-Bot/assets/96463111/be3e3f24-45e2-4197-9e04-fd34510edf45)
+
 
 # Demo Video:
