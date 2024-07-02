@@ -1,4 +1,5 @@
 # COCO: The Foodie Bot
+It is an interactive chatbot designed for Delicious Den restaurant. It enhances customer experience by providing instant, accurate responses to queries about the restaurant, menu items, and related information.
 
 
 # Purpose:
